@@ -1,0 +1,3 @@
+1001,Nescafe Coffee,110,20
+1002,Pink Nailpolish,80,30
+1003,Maida 25kg packet,180,60
